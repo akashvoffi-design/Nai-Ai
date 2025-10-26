@@ -1,2 +1,2 @@
-# Nai-Ai
-The Nat-Ai is a chat bot
+# ai-chat-bot
+create by prompting and me
